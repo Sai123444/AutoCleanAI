@@ -16,9 +16,10 @@ AutoCleanAI is a **production-grade, intelligent data quality framework** that a
 
 ## 🧠 Architecture Diagram
 
-![AutoCleanAI Architecture](https://github.com/Sai123444/AutoCleanAI/assets/YOUR_IMAGE_ID_HERE/architecture.png)
+![AutoCleanAI Architecture](https://github.com/Sai123444/AutoCleanAI/assets/<img width="1335" height="637" alt="image" src="https://github.com/user-attachments/assets/080ef7ae-86cd-4dd0-b02e-c477cc575d4a" />
+/architecture.png)
 
-> (You can upload a diagram later and update the link above.)
+> 
 
 ---
 
@@ -167,11 +168,3 @@ If you liked this project:
 Give it a ⭐ on GitHub
 
 Share with your network
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to auto-upload this to your GitHub repo or give you the `.md` file to copy manually?
